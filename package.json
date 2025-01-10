@@ -1,0 +1,16 @@
+{
+  "name": "terminal-gpt",
+  "version": "1.0.0",
+  "description": "Just a simple chatbot made using the openai api to bring chat-gpt to ur terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Miranda Nigel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.78.1",
+    "readline-sync": "^1.4.10"
+  }
+}
